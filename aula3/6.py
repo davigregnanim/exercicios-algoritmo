@@ -1,6 +1,6 @@
 # O usuário seleciona uma opção de atendimento telefônico
 
-print("\n===== CAIXA ELETRÔNICO =====")
+print("\n===== ATENDIMENTO TELEFôNICO =====")
 print("1 - Suporte Técnico")
 print("2 - Financeiro")
 print("3 - Cancelamento")
